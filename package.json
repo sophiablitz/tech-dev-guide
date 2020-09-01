@@ -1,0 +1,23 @@
+{
+  "name": "tech-dev-guide",
+  "version": "1.0.0",
+  "description": "My solutions to the questions in Google's Tech Dev Guide. See challenges at https://techdevguide.withgoogle.com/paths/advanced/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiablitz/tech-dev-guide.git"
+  },
+  "author": "Sophia Blitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophiablitz/tech-dev-guide/issues"
+  },
+  "homepage": "https://github.com/sophiablitz/tech-dev-guide#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
